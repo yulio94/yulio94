@@ -9,11 +9,12 @@
 <a href="https://twitter.com/yulio_94/"><img align="left" alt="Julio Estrada | Twitter" width="24px" title="Twitter" alt="Twitter" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"></a>
 <a href="https://stackoverflow.com/users/11402507/yulio-94/"><img align="left" alt="Julio Estrada | Stack Overflow" width="24px" title="Stack Overflow" alt="Stack Overflow" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e"></a>
 
-
-
 <br><br>
 
-I'm a software developer from Guatemala, currently focused on backend development and machine learning algorithms, I like to be in constant learning and apply my knowledge in challenges that help other people in their work and growth.
+I’m a software developer from Guatemala, currently working as a fullstack developer with Django and React.js, I like to be in constant learning and apply my knowledge in challenges that help other people in their work and growth.
+
+- 🌱 I’m currently learning Golang and English.
+- 👯 I’m looking to collaborate on open source projects.
 
 <!--
 **yulio94/yulio94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,4 +29,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- :top: I'm improving docker, CI and cloud skills.
 -->
