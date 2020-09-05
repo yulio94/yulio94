@@ -13,7 +13,7 @@
 
 I’m a software developer from Guatemala, currently working as a fullstack developer with Django and React.js, I like to be in constant learning and apply my knowledge in challenges that help other people in their work and growth.
 
-- 🌱 I’m currently learning Golang and English.
+- 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate on open source projects.
 
 <!--
