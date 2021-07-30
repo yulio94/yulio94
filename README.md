@@ -13,7 +13,7 @@
 
 I’m a software engineer from Guatemala, currently working with technologies like Python, Django, JS and React.js. I like to be in constant learning and apply my knowledge in challenges that help other people in their work and growth.
 
-- 🌱 I’m currently learning Java and System architecture.
+- 🌱 I’m currently learning functional programming, Elixir and System architecture.
 - 👯 I’m looking to collaborate on open source projects.
 
 
